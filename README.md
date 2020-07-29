@@ -1,4 +1,4 @@
-# Hi, I'm Adri Campo 👋 👨🏼‍🦰 💻
+# Hi, I'm Adri Campo 👋 👨 💻
 
 
 <img src="https://github.com/adricampo/adricampo/blob/master/niño_pelirojo.png" alt="caricatura de un chico pelirojo" width="190px" height="295px" align="right">
