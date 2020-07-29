@@ -18,7 +18,7 @@ const technologyStack = {
 
 ## A little more about me 😁:
 
-I am an Industrial Engineer reconverted to Web Developer, I love challenges and I can say that making that career change was one of the biggest ones I had in my whole life. 
+I am an Industrial Engineer/Project Manager reconverted to Web Developer, I love challenges and I can say that making that career change was one of the biggest ones I had in my whole life. 
 
 Some of the values that define me are: open minded, hard worker, emphatic.. and the most important ones, on that amazing world of programming are, have begginer mindset and a high curiosity dosis. 
 
