@@ -1,4 +1,4 @@
-# Hi, I'm Adri Campo 👋 👨🏼‍🦰 💻
+# Hi, I'm Adri Campo 👋 💻
 
 
 <img src="https://github.com/adricampo/adricampo/blob/master/image2.png" alt="caricatura de un chico pelirojo" width="190px" height="295px" align="right">
@@ -16,7 +16,7 @@ const technologyStack = {
 
 </br>
 
-## A little more about me...
+## A little more about me 😁:
 
 I am an Industrial Engineer reconverted to Web Developer, I love challenges and I can say that making that career change was one of the biggest ones I had in my whole life. 
 
