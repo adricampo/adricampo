@@ -6,8 +6,7 @@
 
 ```javascript
 const technologyStack = { 
-    FrontEnd: [HTML5, CSS3, Bootstrap, SASS, Javascript, React,
-    Redux, Vue, Gatsby, Typescript, NextJS],
+    FrontEnd: [Javascript, Typescript, React, Redux, Gatsby, NextJS],
     BackEnd: [Node.js, Express, MongoDB, Mongoose, GraphQL, Postman, Swagger],
     Testing: [Jasmine, Mocha, Chai, Jest],
     Analytics: [Datadog, SonarQube],
