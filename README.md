@@ -28,3 +28,5 @@ const technologyStack = {
 ## Find me around the web 🌎:
 
 👉 Want to see more depthly who I am? Have a look to my <a href="https://www.linkedin.com/in/adricampo/">LinkedIn</a> page 💼
+
+📫 How to reach me: adribdn7@gmail.com
