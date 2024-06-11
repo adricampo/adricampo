@@ -1,9 +1,9 @@
 # Hi, I'm Adri Campo 👋 💻
 
 
-<img src="https://github.com/adricampo/adricampo/blob/master/image2.png" alt="caricatura de un chico pelirojo" width="190px" height="295px" align="right">
+<img src="https://github.com/adricampo/adricampo/blob/master/image2.png" alt="caricatura de un chico" width="190px" height="295px" align="right">
 
-### I'm a Junior Front End developer, code passionate trying to learn something new everyday. Some technologies I enjoy working with include ReactJS, Redux, VueJS & Gatsby. 
+### I'm a Front End developer, code passionate trying to learn something new everyday. Some technologies I enjoy working with include ReactJS, Redux, VueJS & Gatsby. 
 
 ```javascript
 const technologyStack = { 
