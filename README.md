@@ -1,4 +1,4 @@
-# Hi there, it's Adri Campo 👋 💻
+# Hi there, it's Adri Campo 👋💻
 
 ### I'm a Front End developer, code passionate trying to learn something new everyday. Currently working with React, Typescript and NextJS. 
 
