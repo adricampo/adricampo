@@ -1,7 +1,5 @@
 # Hi there, it's Adri Campo 👋 💻
 
-<img src="https://github.com/adricampo/adricampo/blob/master/image2.png" alt="caricatura de un chico" width="190px" height="295px" align="right">
-
 ### I'm a Front End developer, code passionate trying to learn something new everyday. Currently working with React, Typescript and NextJS. 
 
 ```javascript
