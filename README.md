@@ -2,7 +2,7 @@
 
 <img src="https://github.com/adricampo/adricampo/blob/master/image2.png" alt="caricatura de un chico" width="190px" height="295px" align="right">
 
-### I'm a Front End developer, code passionate trying to learn something new everyday. Some technologies I enjoy working with include ReactJS, Redux, VueJS & Gatsby. 
+### I'm a Front End developer, code passionate trying to learn something new everyday. Some technologies I enjoy working with include React, Redux, VueJS & Gatsby. 
 
 ```javascript
 const technologyStack = { 
@@ -29,4 +29,4 @@ const technologyStack = {
 
 👉 Want to see more depthly who I am? Have a look to my <a href="https://www.linkedin.com/in/adricampo/">LinkedIn</a> page 💼
 
-📫 How to reach me: adribdn7@gmail.com
+📫 You can email me at: adribdn7@gmail.com. I'll try to respond as soon as possible!
