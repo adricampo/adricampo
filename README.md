@@ -24,6 +24,4 @@ Some of the values that define me are: open minded, hard worker, emphatic.. and 
 
 ## Find me around the web 🌎:
 
-- Check some projects I have on my <a href="https://adricampo.netlify.app/">Personal Portfolio</a> 🖥
-
 - Want to see more depthly who I am? Have a look to my <a href="https://www.linkedin.com/in/adricampo/">LinkedIn</a> page 💼
