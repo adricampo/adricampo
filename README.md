@@ -10,7 +10,7 @@
 
 ---
 
-## `> whoami`
+## `👤 A little more about me:`
 
 ```ts
 const adri: Developer = {
@@ -35,7 +35,7 @@ const adri: Developer = {
 
 ---
 
-## `> tech --list`
+## `🛠️ Tech Stack`
 
 <div align="center">
 
@@ -51,37 +51,37 @@ const adri: Developer = {
 
 ---
 
-## `> career --path`
+## `📈 Career path`
 
 ```
-[2026 - present]  🔍  Open to new challenges
-        │
+[  present  ]  🔍  Open to new challenges
+      │
 [2020 - 2025]     💻  Frontend Developer @ Leadtech Group · Barcelona
-        │              ↳ React + Next.js apps in production
-        │              ↳ TDD with Jest & React Testing Library
-        │              ↳ Light DDD: domain / business / presentation layers
-        │
+      │              ↳ React + Next.js apps in production
+      │              ↳ TDD with Jest & React Testing Library
+      │              ↳ Light DDD: domain / business / presentation layers
+      │
 [2019 - 2020]     🎓  FullStack Bootcamp @ ISDI Coders · Barcelona
-        │              ↳ The pivot point. No looking back.
-        │
+      │              ↳ The pivot point. No looking back.
+      │
 [2017 - 2019]     📦  Distribution Planning Manager @ Mondelez International
-        │
+      │
 [2017 - 2017]     🏭  Project & Operations Manager @ Logisfashion · Barcelona
-        │
+      │
 [2017 - 2018]     🎓  Master in Project Management @ UPC · Barcelona
-        │
+      │
 [2016 - 2017]     🏭  Distribution Planning Jr. Manager @ MANGO · Barcelona
-        │
+      │
 [2016 - 2016]     🔬  Quality & Risk Prevention Intern @ Danone Waters · Barcelona
-        │
+      │
 [2015 - 2016]     ✈️   Exchange semester @ Hochschule München 🇩🇪
-        │
+      │
 [2012 - 2016]     🎓  BSc Industrial Engineering @ UAB · Barcelona
 ```
 
 ---
 
-## `> languages --spoken`
+## `🌐 Languages`
 
 | Language | Level |
 |:---------|:------|
