@@ -74,7 +74,7 @@ const adri: Developer = {
       │
 [2016 - 2016]     🔬  Quality & Risk Prevention Intern @ Danone Waters · Barcelona
       │
-[2015 - 2016]     ✈️   Exchange semester @ Hochschule München 🇩🇪
+[2015 - 2016]     ✈️  Exchange semester @ Hochschule München 🇩🇪
       │
 [2012 - 2016]     🎓  BSc Industrial Engineering @ UAB · Barcelona
 ```
