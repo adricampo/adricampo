@@ -54,7 +54,7 @@ const adri: Developer = {
 ## `📈 Career path`
 
 ```
-[  present  ]     🔍  Open to new challenges
+[  present  ]     💻  Software Developer @ Basetis · Barcelona
       │
 [2020 - 2025]     💻  Frontend Developer @ Leadtech Group · Barcelona
       │              ↳ React + Next.js apps in production
